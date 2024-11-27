@@ -8,7 +8,7 @@ The **Page Protection Plugin** helps you create a customizable overlay on your w
 
 ### Português (Portugal)
 
-O **Plugin de Proteção de Página** permite-lhe criar um sobreposição personalizável no seu website. Pode exibir uma mensagem com um fundo escurecido para impedir que os utilizadores realizem certas ações, como copiar conteúdo ou executar comandos restritos. Este plugin permite ajustar a **cor do fundo**, **padding** e **sombra do texto** da mensagem de sobreposição diretamente do painel de administração do WordPress.
+O **Plugin de Proteção de Página** permite-lhe criar uma sobreposição personalizável no seu website. Pode exibir uma mensagem com um fundo escurecido para impedir que os utilizadores realizem certas ações, como copiar conteúdo ou executar comandos restritos. Este plugin permite ajustar a **cor do fundo**, **padding** e **sombra do texto** da mensagem de sobreposição diretamente do painel de administração do WordPress.
 
 ## Features
 
@@ -107,3 +107,41 @@ For support, please open an issue on the [plugin's GitHub page](https://github.c
 ### Português (Portugal)
 
 Para apoio, por favor abra uma questão na [página do GitHub do plugin](https://github.com/adelino-masioli/page-protection-plugin).
+
+## About the Author / Sobre o Autor
+
+**Adelino Masioli** is a skilled software engineer with extensive experience in WordPress, Flutter, FlutterFlow, Python, JavaScript, NodeJS, and NextJS. With a strong focus on web development and security, Adelino delivers high-quality, secure, and scalable solutions for clients around the world.
+
+**Adelino Masioli** é um engenheiro de software experiente com vasta experiência em WordPress, Flutter, FlutterFlow, Python, JavaScript, NodeJS e NextJS. Com um forte foco em desenvolvimento web e segurança, Adelino entrega soluções de alta qualidade, seguras e escaláveis para clientes em todo o mundo.
+
+I am based in **Vila Nova de Gaia, Porto, Portugal**, and I am open to new project opportunities. Whether you need a custom WordPress solution, a cross-platform mobile app, or a robust backend system, I am here to help.
+
+Estou localizado em **Vila Nova de Gaia, Porto, Portugal**, e estou disponível para novas oportunidades de projetos. Se precisa de uma solução personalizada para WordPress, uma aplicação móvel cross-platform ou um sistema robusto de backend, estou aqui para ajudar.
+
+Contact me for your next project, and let’s collaborate to bring your ideas to life.
+
+Entre em contacto para o seu próximo projecto, e vamos colaborar para dar vida às suas ideias.
+
+---
+
+## SEO Keywords / Palavras-chave SEO
+
+- WordPress Page Protection Plugin / Plugin de Protecção de Página para WordPress
+- Disable Right-click WordPress / Bloquear Clique Direito WordPress
+- WordPress Screenshot Protection / Protecção contra Captura de Ecrã WordPress
+- Custom Overlay Message WordPress / Mensagem de Sobreposição Personalizada WordPress
+- Prevent Inspect Element WordPress / Prevenir Inspecção de Elementos WordPress
+- WordPress Keyboard Shortcut Blocker / Bloqueador de Atalhos de Teclado WordPress
+- Web Security Plugin WordPress / Plugin de Segurança Web WordPress
+- Block Screenshot WordPress / Bloquear Captura de Ecrã WordPress
+- WordPress Content Protection Plugin / Plugin de Protecção de Conteúdo WordPress
+- Custom WordPress Development / Desenvolvimento Personalizado WordPress
+- Flutter, Python, NodeJS Developer / Desenvolvedor Flutter, Python, NodeJS
+
+---
+
+**Looking for a professional WordPress developer?**  
+Contact **Adelino Masioli** at [adelinomasioli@gmail.com](mailto:adelinomasioli@gmail.com) for high-quality WordPress solutions, secure mobile apps, and backend systems. Let’s discuss how I can help you with your next project.
+
+**Procurando um desenvolvedor profissional de WordPress?**  
+Contacte **Adelino Masioli** através de [adelinomasioli@gmail.com](mailto:adelinomasioli@gmail.com) para soluções WordPress de alta qualidade, apps móveis seguras e sistemas de backend. Vamos discutir como posso ajudar no seu próximo projecto.
